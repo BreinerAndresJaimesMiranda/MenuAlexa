@@ -1,0 +1,11 @@
+CREACION BASE DE DATOS
+    Poner el nombre de DB_RecetarioAlexa
+    darle a public los permisos indicados en las imagenes en la carpeta PermisosIMG
+        esos permisos fueron para evitar problemas a la hora de trabajar, cuando se vaya a implementar hay que revisar con mas cuidado los permisos que se van a otorgar, pero para desarrollo esta bien asi
+
+SEGUIR PASOS DEL VIDEO: https://www.youtube.com/watch?v=H9kUaTFxM8U
+    Hasta el minuto 5:23 para crear en la base de datos el usuario al que nos vamos a conectar
+        poner como usuario y contrasenia: MenuAlexa (ya esta configurado asi en el codigo)
+    
+    Hasta el minuto 6:26 para instalar el driver ODBC
+
